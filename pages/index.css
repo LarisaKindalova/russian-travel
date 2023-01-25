@@ -12,3 +12,14 @@
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-item/intro__list-item.css);
+@import url(../blocks/intro/__span-accent/intro__span-accent.css);
+
+@import url(../blocks/photo_grid/photo_grid.css);
+@import url(../blocks/photo_grid/__list/photo_grid__list.css);
+@import url(../blocks/photo_grid/__item/photo_grid__item.css);
+@import url(../blocks/photo_grid/__image/photo_grid__image.css);
