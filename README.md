@@ -13,4 +13,4 @@
 
 
 
-* Посомтреть что получилось [ссылкa на GitHub Pages.]( "здесь")
+* Посомтреть что получилось [https://larisakindalova.github.io/russian-travel/index.html]( https://larisakindalova.github.io/russian-travel/index.html __"здесь"__)
