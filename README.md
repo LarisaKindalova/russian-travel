@@ -13,4 +13,4 @@
 
 
 
-* Посомтреть что получилось [__здесь__] (https://larisakindalova.github.io/russian-travel/index.html)
+* Посомтреть что получилось [__здесь__](https://larisakindalova.github.io/russian-travel/index.html)
