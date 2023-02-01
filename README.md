@@ -12,4 +12,4 @@
 
 
 
-Посомтреть результат [__здесь__](https://larisakindalova.github.io/russian-travel/index.html)
+Посмотреть результат [__здесь__](https://larisakindalova.github.io/russian-travel/index.html)
