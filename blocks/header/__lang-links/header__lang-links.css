@@ -1,9 +1,8 @@
 .header__lang-links {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 0 0 5px;
   display: flex;
   column-gap: 18px;
   align-items: end;
-  padding-bottom: 5px;
 }

@@ -5,19 +5,17 @@
   line-height: 76px;
 }
 
-@media screen and (width: 768px) {
+@media screen and (max-width: 768px) {
   .place__title {
+    max-width: 330px;
     font-size: 42px;
     line-height: 46px;
-    max-width: 330px;
   }
 }
 
 @media screen and (max-width: 689px) {
   .place__title {
-  font-size: 42px;
-  line-height: 46px;
-  padding: 24px 26px 24px;
+    padding: 24px 26px 24px;
   }
 }
 

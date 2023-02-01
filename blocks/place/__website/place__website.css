@@ -5,7 +5,7 @@
 
 @media screen and (max-width: 689px) {
   .place__website {
-  padding: 24px 26px 24px;
+  padding: 0 24px;
   }
 }
 
