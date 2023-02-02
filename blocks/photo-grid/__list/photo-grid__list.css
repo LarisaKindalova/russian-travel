@@ -9,8 +9,8 @@
 
 @media screen and (max-width:1024px) {
   .photo-grid__list {
-  width: 100%;
-  grid-gap: 14px;
+    width: 100%;
+    grid-gap: 14px;
   }
 }
 @media screen and (max-width:768px) {

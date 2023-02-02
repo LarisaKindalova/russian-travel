@@ -10,6 +10,10 @@
 }
 
 @media screen and (max-width:768px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+
   .place__paragraph:not(:first-child) {
     padding-top: 25px;
   }
@@ -18,8 +22,6 @@
 @media screen and (max-width:620px) {
   .place__paragraph {
     padding: 0 16px;
-    line-height: 26px;
-    font-size: 16px;
   }
 }
 
